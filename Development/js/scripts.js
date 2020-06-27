@@ -1,26 +1,31 @@
-// السؤال الأول
-// 1
+// السؤال 
+let name = "فجر ";
+let number = 17;
 
-// 2
+
+
 
 // 3 and 4
-
+console.log(name+" "+number);
 // 5 and 6
-
+console.log(number*5);
 // -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
 
 // السؤال الثاني
-// 1
+ let hobbies = ["running" , "drawing" ," reading",]
 
 // 2
-
+hobbies.pop(number);
+console.log(hobbies)
 // 3
-
+let object ={
+    name :"fajer",
+    advantiges: "very easy",
+    faviortelanguge: "CSS",
+}
 // 4
 
 // 5
-
-// 6
 
 // 7
 
